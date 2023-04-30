@@ -1,6 +1,15 @@
 ### Project ###
 checkpoints/
+
+## Exampls for Github Homepage
 examples/*
+!/examples/places/images/image0.jpg
+!/examples/places/images/image50.jpg
+!/examples/places/masks/image0.jpg
+!/examples/places/masks/image50.jpg
+!/examples/places/output/image0.jpg
+!/examples/places/output/image50.jpg
+
 
 ### Data
 data/*
