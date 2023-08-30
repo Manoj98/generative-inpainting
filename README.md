@@ -1,5 +1,8 @@
-# generative-inpainting-pytorch
+# Generative Inpainting for CS 7643 - Deep Learning Class
+
 A PyTorch reimplementation for the paper [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892) according to the author's [TensorFlow implementation](https://github.com/JiahuiYu/generative_inpainting).
+
+Final report on methodology and experiments is available [here](https://manoj98.github.io/generative-inpainting/CS_7643_DL_Project_FinalReport___Generative_Inpainting.pdf).
 
 ## Prerequisites
 This code has been tested on Ubuntu 14.04 and the following are the main components that need to be installed:
